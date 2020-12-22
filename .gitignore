@@ -7,7 +7,7 @@ bin-release/
 # Other files and folders
 .settings/
 
-# Executables
+# Executable que no vull que apareguen
 *.swf
 *.air
 *.ipa
